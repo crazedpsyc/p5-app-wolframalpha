@@ -1,4 +1,9 @@
 p5-app-wolframalpha
 ===================
 
-App::WolframAlpha - command-line tool for querying WolframAlpha.com
+App::WolframAlpha is a command-line tool for querying WolframAlpha.com.
+
+#Example usage:#
+
+    wolframalpha 2 + 2
+    wolframalpha speed of an unladen swallow
