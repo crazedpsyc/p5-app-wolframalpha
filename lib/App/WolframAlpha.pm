@@ -3,7 +3,6 @@ package App::WolframAlpha;
 
 use Moose;
 use WWW::WolframAlpha;
-use DDP;
 use Encode 'encode_utf8';
 
 with 'MooseX::Getopt';
