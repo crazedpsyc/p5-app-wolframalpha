@@ -1,0 +1,4 @@
+#!/usr/bin/env perl
+use App::WolframAlpha;
+
+my $app = App::WolframAlpha->new_with_options->print_query_with_extra_argv;
